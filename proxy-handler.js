@@ -43,3 +43,5 @@ class ProxyHandler{
         console.log(Proxy.randomProxy());
     }, 50);
 })();
+
+module.exports = ProxyHandler;
